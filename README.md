@@ -1,0 +1,2 @@
+a simple ddos program runnable right out of the box on almost any unix machine including mac, linux, openwrt or ddwrt and also some routers with a telnet or ssh shell just copy the ddos-client.sh onto the bot and set the ip to the masters one and start the master then start all the clients, then type the ip of the target with the port ex 192.168.0.1:80 press enter then ctrl+c. 
+For educational purposes only. i am not responsible for what you do with this
